@@ -1,6 +1,8 @@
 # Obrona ISK 2025
 
-## Specjalność: Systemy i sieci komputerowe
+Krótki, uporządkowany zestaw notatek przygotowujących do obrony na specjalności **Systemy i Sieci Komputerowe** (rocznik 2025). Każde pytanie ma własny plik Markdown z definicją, rozwinięciem i zwięzłym streszczeniem do szybkiej powtórki.
+
+## Spis treści
 
 ### Pytania Kierunkowe (1-10)
 
@@ -27,3 +29,9 @@
 18. [Metody projektowania gier komputerowych](specjalnosciowe/18.md)
 19. [Technologie zapór ogniowych i systemy wykrywania włamań](specjalnosciowe/19.md)
 20. [Protokoły routingu](specjalnosciowe/20.md)
+
+## Jak korzystać
+
+- Otwórz dowolny plik z listy, aby zobaczyć pełną odpowiedź na pytanie.
+- Sekcje "Streszczenie" w plikach pomagają w ekspresowej powtórce przed egzaminem.
+- Możesz czytać w przeglądarce (GitHub) lub lokalnie po klonowaniu repozytorium.
