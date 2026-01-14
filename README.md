@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Obrona ISK 2025
+=======
+# ISK-Exam-Questions 2022/2023
+>>>>>>> Stashed changes
 
 Krótki, uporządkowany zestaw notatek przygotowujących do obrony na specjalności **Systemy i Sieci Komputerowe** (rocznik 2025). Każde pytanie ma własny plik Markdown z definicją, rozwinięciem i zwięzłym streszczeniem do szybkiej powtórki.
 
