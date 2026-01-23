@@ -62,4 +62,4 @@ Na ten moment zawiera notatki na pytania kierunkowe oraz specjalnościowe, wymie
 
 ## Notes
 
-> Soon.
+> Wszyscy zdali.
